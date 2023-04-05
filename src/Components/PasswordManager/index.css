@@ -1,0 +1,132 @@
+.bgContainer {
+  background-image: linear-gradient(to bottom, #9ba9eb, #c3caea);
+  padding: 30px;
+}
+.paswrdandimg {
+  display: flex;
+  flex-direction: row;
+}
+.img {
+  height: 8vh;
+  margin-left: 24vh;
+}
+.frontCard {
+  background-color: #5763a5;
+  height: 60vh;
+  width: 70vw;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.frontCard2 {
+  background-color: #5763a5;
+  height: 60vh;
+  width: 70vw;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sideimg {
+  height: 50vh;
+  margin-right: 5vh;
+}
+.pheading {
+  color: #ffffff;
+  font-size: 20px;
+  margin-left: 6vh;
+}
+.countcard {
+  display: flex;
+}
+.hori {
+  display: flex;
+  justify-content: space-between;
+}
+.checkboxContainer {
+  align-self: flex-end;
+  color: #ffffff;
+  margin-left: 55vw;
+}
+.nopascont {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.nopasswordpara {
+  color: #ffffff;
+}
+.nopsimg {
+  height: 35vh;
+}
+.mscount {
+  color: white;
+  font-size: 10px;
+  border-width: 1px;
+  height: 2vh;
+  width: 2vh;
+  border-radius: 5px;
+  border: solid 1px gray;
+  margin-top: 3vh;
+  margin-left: 2vh;
+}
+.serchimgs {
+  height: 3vh;
+  margin-top: 1vh;
+  margin-left: 1vh;
+}
+.srchcard {
+  height: 5vh;
+  display: flex;
+  flex-direction: row;
+  margin-left: 6vh;
+  width: 15vw;
+  margin-top: 2vh;
+  background-color: #ffffff;
+}
+.srchcard4 {
+  height: 5vh;
+  display: flex;
+  margin-left: 60vh;
+  width: 15vw;
+  margin-top: 2vh;
+  background-color: #ffffff;
+}
+.passwords {
+  display: flex;
+  flex-direction: row;
+}
+.input {
+  height: 5vh;
+}
+.fcard {
+  background-color: #454f84;
+  height: 40vh;
+  width: 25vw;
+  margin-left: 8vh;
+  margin-top: 8vh;
+}
+.btncard {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 11vh;
+}
+.submtbtn {
+  background-color: #0b69ff;
+  height: 4vh;
+  width: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-width: 0px;
+  border-radius: 5px;
+  margin-top: 1vh;
+  color: #ffffff;
+}

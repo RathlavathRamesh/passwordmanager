@@ -1,0 +1,45 @@
+.Item {
+  list-style-type: none;
+  height: 13vh;
+  border-width: 1px;
+  border-style: solid;
+  border-color: grey;
+  width: 15vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.website {
+  color: white;
+}
+.stars {
+  height: 1vh;
+}
+.btn {
+  border-width: 0px;
+  background-color: #5763a5;
+}
+.prof {
+  height: 4vh;
+  width: 3vw;
+  border-radius: 2vh;
+  margin-left: 1vh;
+  background-color: green;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.name {
+  color: #ffffff;
+  font-size: 10px;
+  margin-left: 6px;
+}
+.profile {
+  display: flex;
+}
+.deleteimg {
+  margin-right: 1vh;
+  height: 2vh;
+}
